@@ -1,13 +1,13 @@
 # 📺 TVBox 多线路配置
 
-> 本文件由GitHub Actions自动维护，最后更新：**2026-05-14 14:38:18**
+> 本文件由GitHub Actions自动维护，最后更新：**2026-05-14 14:50:32**
 
 ## 🔗 订阅地址
 
 | 类型 | 链接 |
 | :--- | :--- |
-| RAW直链 | [$https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json](${{raw_link}}) |
-| CDN加速 | [$https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json](${{cdn_link}}) |
+| RAW直链 | [https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json](${{raw_link}}) |
+| CDN加速 | [https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json](${{cdn_link}}) |
 
 ## 📋 可用线路列表
 
