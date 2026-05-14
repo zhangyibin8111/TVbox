@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "",
-            "name": "更新时间 2026-05-14 14:54:02"
+            "name": "更新时间 2026-05-14 15:23:35"
         },
         {
             "url": "http://www.饭太硬.net/tv",
@@ -47,6 +47,22 @@
         {
             "url": "https://cyao2q.github.io/files/n.json",
             "name": "🚀不会唱歌的鱼妖备用"
+        },
+        {
+            "url": "https://tvbox.catvod.com/catvod.json",
+            "name": "🚀Catvod-自用"
+        },
+        {
+            "url": "https://tvbox.catvod.com/xs/api.json",
+            "name": "🚀Catvod-潇洒"
+        },
+        {
+            "url": "https://tvbox.catvod.com/jsm.json",
+            "name": "🚀Catvod-PG"
+        },
+        {
+            "url": "https://tvbox.catvod.com/FongMi.json",
+            "name": "🚀Catvod-FongMi"
         }
     ]
 }
