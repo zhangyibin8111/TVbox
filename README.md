@@ -6,8 +6,8 @@
 
 | 类型 | 链接 |
 | :--- | :--- |
-| RAW直链 | [https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json]({{raw_link}}) |
-| CDN加速 | [https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json]({{cdn_link}}) |
+| RAW直链 | [https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json](https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json) |
+| CDN加速 | [https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json](https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json) |
 
 ## 📋 可用线路列表
 
