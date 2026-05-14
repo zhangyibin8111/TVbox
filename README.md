@@ -1,6 +1,6 @@
 # 📺 TVBox 多线路配置
 
-> 本文件由GitHub Actions自动维护，最后更新：**2026-05-14 14:54:02**
+> 本文件由GitHub Actions自动维护，最后更新：**2026-05-14 15:23:35**
 
 ## 🔗 订阅地址
 
@@ -24,6 +24,10 @@
 | 🚀菜妮丝 | [https://tv.菜妮丝.top](https://tv.菜妮丝.top) |
 | 🚀不会唱歌的鱼妖 | [https://cyao2q.github.io/files/m.json](https://cyao2q.github.io/files/m.json) |
 | 🚀不会唱歌的鱼妖备用 | [https://cyao2q.github.io/files/n.json](https://cyao2q.github.io/files/n.json) |
+| 🚀Catvod-自用 | [https://tvbox.catvod.com/catvod.json](https://tvbox.catvod.com/catvod.json) |
+| 🚀Catvod-潇洒 | [https://tvbox.catvod.com/xs/api.json](https://tvbox.catvod.com/xs/api.json) |
+| 🚀Catvod-PG | [https://tvbox.catvod.com/jsm.json](https://tvbox.catvod.com/jsm.json) |
+| 🚀Catvod-FongMi | [https://tvbox.catvod.com/FongMi.json](https://tvbox.catvod.com/FongMi.json) |
 
 
 ## ⚠️ 免责声明
