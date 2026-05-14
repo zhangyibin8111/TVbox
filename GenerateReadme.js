@@ -43,8 +43,8 @@ let template = fs.readFileSync('README.template.md', 'utf8');
 // 替换占位符
 let readmeContent = template
     .replace('{{update_time}}', updateTime)
-    .replace('{{raw_link}}', rawLink)
-    .replace('{{cdn_link}}', cdnLink)
+    .replace(/{{raw_link}}/g, rawLink)
+    .replace(/{{cdn_link}}/g, cdnLink)
     .replace('{{table_rows}}', tableRows);
 // 写入 README.md
 fs.writeFileSync('README.md', readmeContent, 'utf8');

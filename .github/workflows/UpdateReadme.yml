@@ -3,11 +3,13 @@ name: Auto Update README from JSON
 on:
   push:
     branches: [ main, master ]    # 根据主分支名称调整
-    paths:
-      - 'MultiLine.json'          # 只要这个文件变化就触发
+    paths:                        # 只要文件变化就触发
+      - 'MultiLine.json'
+      - 'GenerateReadme.js'
+      - 'README.template.md'
 
 
-# 🔑关键：授予写入仓库内容的权限
+# 授予写入仓库内容的权限
 permissions:
   contents: write
 
