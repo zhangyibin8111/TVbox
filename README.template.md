@@ -2,6 +2,13 @@
 
 > 本文件由GitHub Actions自动维护，最后更新：**{{update_time}}**
 
+## 🔗 订阅地址
+
+| 类型 | 链接 |
+| :--- | :--- |
+| RAW直链 | [${{raw_link}}](${{raw_link}}) |
+| CDN加速 | [${{cdn_link}}](${{cdn_link}}) |
+
 ## 📋 可用线路列表
 
 | 线路名称 | 接口地址 |
