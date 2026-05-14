@@ -6,8 +6,8 @@
 
 | 类型 | 链接 |
 | :--- | :--- |
-| RAW直链 | [${{raw_link}}](${{raw_link}}) |
-| CDN加速 | [${{cdn_link}}](${{cdn_link}}) |
+| RAW直链 | [{{raw_link}}](${{raw_link}}) |
+| CDN加速 | [{{cdn_link}}](${{cdn_link}}) |
 
 ## 📋 可用线路列表
 
