@@ -7,7 +7,7 @@ on:
       - 'MultiLine.json'          # 只要这个文件变化就触发
 
 jobs:
-  generate-readme:
+  GenerateReadme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
