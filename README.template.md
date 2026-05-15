@@ -3,16 +3,9 @@
 > 本文件由GitHub Actions自动维护，最后更新：**{{update_time}}**
 
 ## 🔗 订阅地址
-
-| 类型 | 链接 |
-| :--- | :--- |
-| RAW直链 | [{{raw_link}}]({{raw_link}}) |
-| CDN加速 | [{{cdn_link}}]({{cdn_link}}) |
-
-> [🚀 **CDN缓存刷新**：如果更新JSON后CDN链接未及时生效，请手动清除缓存。]({{purge_link}})
+{{subscription_links}}
 
 ## 📋 可用线路列表
-
 {{table_rows}}
 
 ## ⚠️ 免责声明

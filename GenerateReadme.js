@@ -12,10 +12,16 @@ if (process.env.GITHUB_REPOSITORY) {
   repoName = name;
 }
 
-// 构造链接
+// 构造订阅地址
 const rawLink = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/MultiLine.json`;
-const cdnLink = `https://cdn.jsdelivr.net/gh/${repoOwner}/${repoName}@${branch}/MultiLine.json`;
-const purgeLink = `https://purge.jsdelivr.net/gh/${repoOwner}/${repoName}@${branch}/MultiLine.json`;
+const subscriptionLinks = [
+  { name: "🐙GitHub直链", url: rawLink },
+  { name: "🌏jsDelivrCDN", url: `https://cdn.jsdelivr.net/gh/${repoOwner}/${repoName}@${branch}/MultiLine.json` },
+  { name: "⚡GH-Proxy 香港节点", url: `https://hk.gh-proxy.org/${rawLink}` },
+  { name: "🌏GH-Proxy Fastly节点", url: `https://cdn.gh-proxy.org/${rawLink}` },
+  { name: "🌏GH-Proxy EdgeOne节点", url: `https://edgeone.gh-proxy.org/${rawLink}` }
+];
+
 
 // 读取JSON配置文件
 const configPath = process.argv[2] || 'MultiLine.json';
@@ -30,29 +36,47 @@ if (urlsList.length > 0 && urlsList[0].url === '') {
   urlsList = urlsList.slice(1); // 移除第一条元数据条目
 }
 
-// 生成HTML表格行
-let tableRows = '';
+// 生成[subscriptionLinks]的HTML表格行
+let subTableRows = '';
+subscriptionLinks.forEach(link => {
+  subTableRows += `
+    <tr>
+      <td nowrap>${escapeHtml(link.name)}</td>
+      <td nowrap><a href="${escapeHtml(link.url)}">${escapeHtml(link.url)}</a></td>
+    </tr>`;
+});
+// [subscriptionLinks]的完整HTML表格
+const subTable = `
+<table>
+  <thead>
+    <tr><th nowrap>节点名称</th><th nowrap>订阅链接</th></tr>
+  </thead>
+  <tbody>${subTableRows}
+  </tbody>
+</table>`;
+
+// 生成[urlsList]的HTML表格行
+let urlTableRows = '';
 urlsList.forEach(item => {
   // 过滤掉空URL或无效条目
   if (item.url && item.url.trim() !== '') {
-    tableRows += `
+    urlTableRows += `
           <tr>
             <td nowrap>${escapeHtml(item.name)}</td>
-            <td nowrap><code>${escapeHtml(item.url)}</code></td>
-          </tr>`;
+            <td nowrap><a href="${escapeHtml(item.url)}">${escapeHtml(item.url)}</a></td>
+          </tr>`; // <td nowrap><code>${escapeHtml(item.url)}</code></td> [nowrap]属性实现单元格中的内容不换行
   }
 });
 
-// 完整的HTML表格，[nowrap]属性实现单元格中的内容不换行
-const htmlTable = `
+// [urlsList]的完整HTML表格
+const urlTable = `
 <table>
   <thead>
     <tr>
-      <th nowrap>线路名称</th>
-      <th nowrap>接口地址</th>
+      <th nowrap>线路名称</th><th nowrap>接口地址</th>
     </tr>
   </thead>
-  <tbody>${tableRows}
+  <tbody>${urlTableRows}
   </tbody>
 </table>`;
 
@@ -60,10 +84,8 @@ const htmlTable = `
 let template = fs.readFileSync('README.template.md', 'utf8');
 let readmeContent = template
   .replace('{{update_time}}', updateTime)
-  .replace(/{{raw_link}}/g, rawLink)
-  .replace(/{{cdn_link}}/g, cdnLink)
-  .replace('{{purge_link}}', purgeLink)
-  .replace('{{table_rows}}', htmlTable);
+  .replace('{{subscription_links}}', subTable)
+  .replace('{{table_rows}}', urlTable);
 // 写入 README.md
 fs.writeFileSync('README.md', readmeContent, 'utf8');
 
