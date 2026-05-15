@@ -1,6 +1,6 @@
 # 📺 TVBox 多线路配置
 
-> 本文件由GitHub Actions自动维护，最后更新：**2026-05-15 17:25:47**
+> 本文件由GitHub Actions自动维护，最后更新：**2026-05-15 18:48:47**
 
 ## 🔗 订阅地址
 
@@ -18,7 +18,7 @@
       <td nowrap><a href="https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json">https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json</a></td>
     </tr>
     <tr>
-      <td nowrap>🌏🚀GH-Proxy</td>
+      <td nowrap>🌏GH-Proxy</td>
       <td nowrap><a href="https://gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@
       <td nowrap><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://hk.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
-      <td nowrap>🌏GH-Proxy Fastly节点</td>
+      <td nowrap>🌏🚀GH-Proxy Fastly节点</td>
       <td nowrap><a href="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://cdn.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@
           </tr>
           <tr>
             <td nowrap>🐮王小二</td>
-            <td nowrap><a href="http://www.王二小放牛娃.top/">http://www.王二小放牛娃.top/</a></td>
+            <td nowrap><a href="http://tvbox.xn--4kq62z5rby2qupq9ub.top/">http://tvbox.xn--4kq62z5rby2qupq9ub.top/</a></td>
           </tr>
           <tr>
             <td nowrap>🐮王小二🔄</td>
