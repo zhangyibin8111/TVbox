@@ -63,7 +63,7 @@ let readmeContent = template
   .replace(/{{raw_link}}/g, rawLink)
   .replace(/{{cdn_link}}/g, cdnLink)
   .replace('{{purge_link}}', purgeLink)
-  .replace(/{{table_rows}}/g, htmlTable);
+  .replace('{{table_rows}}', htmlTable);
 // 写入 README.md
 fs.writeFileSync('README.md', readmeContent, 'utf8');
 
