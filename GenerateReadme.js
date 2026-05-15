@@ -39,9 +39,7 @@ urlsList.forEach(item => {
           <tr>
             <td style="white-space: nowrap;">${escapeHtml(item.name)}</td>
             <td style="white-space: normal;">
-              <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
-                ${escapeHtml(item.url)}
-              </a>
+              <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.url)}</a>
             </td>
           </tr>`;
   }
