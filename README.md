@@ -9,85 +9,111 @@
 | RAW直链 | [https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json](https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json) |
 | CDN加速 | [https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json](https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json) |
 
-> 🚀 **CDN缓存刷新**：如果更新JSON后CDN链接未及时生效，请点击下方按钮手动清除缓存。
->
-> <a href="https://purge.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json" target="_blank" style="display: inline-block; background-color: #f0ad4e; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-weight: bold;">🧹 刷新CDN加速链接缓存</a>
-> [刷新CDN加速链接缓存](https://purge.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json)
+> [🚀 **CDN缓存刷新**：如果更新JSON后CDN链接未及时生效，请手动清除缓存。](https://purge.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json)
 
 ## 📋 可用线路列表
 
 
-<div style="overflow-x: auto;">
-  <table style="border-collapse: collapse; width: 100%;">
-    <thead>
-      <tr>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">线路名称</th>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">接口地址</th>
-      </tr>
-    </thead>
-    <tbody>
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">线路名称</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">接口地址</th>
+    </tr>
+  </thead>
+  <tbody>
           <tr>
             <td style="white-space: nowrap;">🚀🍚饭太硬</td>
-            <td style="white-space: nowrap;"><code>https://www.饭太硬.net/tv</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://www.饭太硬.net/tv" target="_blank" rel="noopener noreferrer">https://www.饭太硬.net/tv</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🚀🍚饭太硬🔄</td>
-            <td style="white-space: nowrap;"><code>https://fty.xxooo.cf/tv</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://fty.xxooo.cf/tv" target="_blank" rel="noopener noreferrer">https://fty.xxooo.cf/tv</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🚀🍚饭太硬🔄🔄</td>
-            <td style="white-space: nowrap;"><code>https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp" target="_blank" rel="noopener noreferrer">https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐮王小二</td>
-            <td style="white-space: nowrap;"><code>https://www.王二小放牛娃.top/</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://www.王二小放牛娃.top/" target="_blank" rel="noopener noreferrer">https://www.王二小放牛娃.top/</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐮王小二🔄</td>
-            <td style="white-space: nowrap;"><code>https://9280.kstore.vip/newwex.json</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://9280.kstore.vip/newwex.json" target="_blank" rel="noopener noreferrer">https://9280.kstore.vip/newwex.json</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐮王小二🔄🔄</td>
-            <td style="white-space: nowrap;"><code>https://9280.kstore.space/wex.json</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://9280.kstore.space/wex.json" target="_blank" rel="noopener noreferrer">https://9280.kstore.space/wex.json</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐱Catvod-🟦自用</td>
-            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/catvod.json</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://tvbox.catvod.com/catvod.json" target="_blank" rel="noopener noreferrer">https://tvbox.catvod.com/catvod.json</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐱Catvod-😎潇洒</td>
-            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/xs/api.json</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://tvbox.catvod.com/xs/api.json" target="_blank" rel="noopener noreferrer">https://tvbox.catvod.com/xs/api.json</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐱Catvod-🟦PG</td>
-            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/jsm.json</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://tvbox.catvod.com/jsm.json" target="_blank" rel="noopener noreferrer">https://tvbox.catvod.com/jsm.json</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐱Catvod-🌸FongMi</td>
-            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/FongMi.json</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://tvbox.catvod.com/FongMi.json" target="_blank" rel="noopener noreferrer">https://tvbox.catvod.com/FongMi.json</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🌸FongMi</td>
-            <td style="white-space: nowrap;"><code>https://tv.菜妮丝.top/</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://tv.菜妮丝.top/" target="_blank" rel="noopener noreferrer">https://tv.菜妮丝.top/</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">📦盒子迷</td>
-            <td style="white-space: nowrap;"><code>https://盒子迷.top/禁止贩卖</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://盒子迷.top/禁止贩卖" target="_blank" rel="noopener noreferrer">https://盒子迷.top/禁止贩卖</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🦅欧歌</td>
-            <td style="white-space: nowrap;"><code>https://tv.nxog.top/m/</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://tv.nxog.top/m/" target="_blank" rel="noopener noreferrer">https://tv.nxog.top/m/</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">😎潇洒❌</td>
-            <td style="white-space: nowrap;"><code>https://9877.kstore.space/AnotherD/api.json</code></td>
+            <td style="white-space: nowrap;">
+              <a href="https://9877.kstore.space/AnotherD/api.json" target="_blank" rel="noopener noreferrer">https://9877.kstore.space/AnotherD/api.json</a>
+            </td>
           </tr>
           <tr>
             <td style="white-space: nowrap;">🐱肥猫❌</td>
-            <td style="white-space: nowrap;"><code>http://肥猫.com/</code></td>
-          </tr></tbody>
-  </table>
-</div>
+            <td style="white-space: nowrap;">
+              <a href="http://肥猫.com/" target="_blank" rel="noopener noreferrer">http://肥猫.com/</a>
+            </td>
+          </tr>
+  </tbody>
+</table>
 
 ## ⚠️ 免责声明
 
