@@ -38,7 +38,7 @@ urlsList.forEach(item => {
     tableRows += `
           <tr>
             <td style="white-space: nowrap;">${escapeHtml(item.name)}</td>
-            <td style="white-space: normal;">
+            <td style="white-space: nowrap;">
               <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.url)}</a>
             </td>
           </tr>`;
@@ -47,18 +47,16 @@ urlsList.forEach(item => {
 
 // 完整的HTML表格，外层加[overflow-x]实现横向滚动
 const htmlTable = `
-<div style="overflow-x: auto;">
-  <table style="border-collapse: collapse; width: 100%;">
-    <thead>
-      <tr>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">线路名称</th>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: normal;">接口地址</th>
-      </tr>
-    </thead>
-    <tbody>${tableRows}
-    </tbody>
-  </table>
-</div>`;
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">线路名称</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">接口地址</th>
+    </tr>
+  </thead>
+  <tbody>${tableRows}
+  </tbody>
+</table>`;
 
 // 读取模板并替换
 let template = fs.readFileSync('README.template.md', 'utf8');
