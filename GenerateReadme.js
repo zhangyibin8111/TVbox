@@ -38,7 +38,7 @@ urlsList.forEach(item => {
     tableRows += `
           <tr>
             <td nowrap>${escapeHtml(item.name)}</td>
-            <td nowrap>[${escapeHtml(item.url)}](${escapeHtml(item.url)})</td>
+            <td nowrap><a href="${escapeHtml(item.url)}" rel="noopener noreferrer">${escapeHtml(item.url)}</a></td>
           </tr>`;
   }
 });
