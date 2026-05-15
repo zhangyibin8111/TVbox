@@ -9,10 +9,7 @@
 | RAW直链 | [{{raw_link}}]({{raw_link}}) |
 | CDN加速 | [{{cdn_link}}]({{cdn_link}}) |
 
-> 🚀 **CDN缓存刷新**：如果更新JSON后CDN链接未及时生效，请点击下方按钮手动清除缓存。
->
-> <a href="{{purge_link}}" target="_blank" style="display: inline-block; background-color: #f0ad4e; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-weight: bold;">🧹 刷新CDN加速链接缓存</a>
-> [刷新CDN加速链接缓存]({{purge_link}})
+> [🚀 **CDN缓存刷新**：如果更新JSON后CDN链接未及时生效，请手动清除缓存。]({{purge_link}})
 
 ## 📋 可用线路列表
 

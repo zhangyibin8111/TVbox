@@ -38,7 +38,11 @@ urlsList.forEach(item => {
     tableRows += `
           <tr>
             <td style="white-space: nowrap;">${escapeHtml(item.name)}</td>
-            <td style="white-space: nowrap;"><code>${escapeHtml(item.url)}</code></td>
+            <td style="white-space: normal;">
+              <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+                ${escapeHtml(item.url)}
+              </a>
+            </td>
           </tr>`;
   }
 });
@@ -50,10 +54,11 @@ const htmlTable = `
     <thead>
       <tr>
         <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">线路名称</th>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">接口地址</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: normal;">接口地址</th>
       </tr>
     </thead>
-    <tbody>${tableRows}</tbody>
+    <tbody>${tableRows}
+    </tbody>
   </table>
 </div>`;
 
@@ -63,8 +68,8 @@ let readmeContent = template
   .replace('{{update_time}}', updateTime)
   .replace(/{{raw_link}}/g, rawLink)
   .replace(/{{cdn_link}}/g, cdnLink)
-  .replace(/{{purge_link}}/g, purgeLink)
-  .replace('{{table_rows}}', htmlTable);
+  .replace('{{purge_link}}', purgeLink)
+  .replace(/{{table_rows}}/g, htmlTable);
 // 写入 README.md
 fs.writeFileSync('README.md', readmeContent, 'utf8');
 
