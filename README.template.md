@@ -5,7 +5,7 @@
 ## 🔗 订阅地址
 {{subscription_links}}
 
-## 📋 可用线路列表
+## 📋 可用线路
 {{table_rows}}
 
 ## ⚠️ 免责声明
