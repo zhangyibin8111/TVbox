@@ -38,7 +38,7 @@ urlsList.forEach(item => {
     tableRows += `
           <tr>
             <td nowrap>${escapeHtml(item.name)}</td>
-            <td nowrap><a href="${escapeHtml(item.url)}" rel="noopener noreferrer">${escapeHtml(item.url)}</a></td>
+            <td nowrap>${escapeHtml(item.url)}</td>
           </tr>`;
   }
 });
@@ -68,8 +68,8 @@ let readmeContent = template
 fs.writeFileSync('README.md', readmeContent, 'utf8');
 
 console.log('✅ README.md 生成成功！');
-console.log(`📊 共 ${urlsList.length} 条有效线路`);
 console.log(`📅 更新时间: ${updateTime}`);
+console.log(`📊 共 ${urlsList.length} 条有效线路`);
 
 // 简单的防止线路名称或URL里包含特殊字符
 function escapeHtml(str) {
