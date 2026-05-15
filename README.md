@@ -24,63 +24,63 @@
   <tbody>
           <tr>
             <td nowrap>🚀🍚饭太硬</td>
-            <td nowrap>https://www.饭太硬.net/tv</td>
+            <td nowrap><code>https://www.饭太硬.net/tv</code></td>
           </tr>
           <tr>
             <td nowrap>🚀🍚饭太硬🔄</td>
-            <td nowrap>https://fty.xxooo.cf/tv</td>
+            <td nowrap><code>https://fty.xxooo.cf/tv</code></td>
           </tr>
           <tr>
             <td nowrap>🚀🍚饭太硬🔄🔄</td>
-            <td nowrap>https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp</td>
+            <td nowrap><code>https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp</code></td>
           </tr>
           <tr>
             <td nowrap>🐮王小二</td>
-            <td nowrap>https://www.王二小放牛娃.top/</td>
+            <td nowrap><code>https://www.王二小放牛娃.top/</code></td>
           </tr>
           <tr>
             <td nowrap>🐮王小二🔄</td>
-            <td nowrap>https://9280.kstore.vip/newwex.json</td>
+            <td nowrap><code>https://9280.kstore.vip/newwex.json</code></td>
           </tr>
           <tr>
             <td nowrap>🐮王小二🔄🔄</td>
-            <td nowrap>https://9280.kstore.space/wex.json</td>
+            <td nowrap><code>https://9280.kstore.space/wex.json</code></td>
           </tr>
           <tr>
             <td nowrap>🐱Catvod-🟦自用</td>
-            <td nowrap>https://tvbox.catvod.com/catvod.json</td>
+            <td nowrap><code>https://tvbox.catvod.com/catvod.json</code></td>
           </tr>
           <tr>
             <td nowrap>🐱Catvod-😎潇洒</td>
-            <td nowrap>https://tvbox.catvod.com/xs/api.json</td>
+            <td nowrap><code>https://tvbox.catvod.com/xs/api.json</code></td>
           </tr>
           <tr>
             <td nowrap>🐱Catvod-🟦PG</td>
-            <td nowrap>https://tvbox.catvod.com/jsm.json</td>
+            <td nowrap><code>https://tvbox.catvod.com/jsm.json</code></td>
           </tr>
           <tr>
             <td nowrap>🐱Catvod-🌸FongMi</td>
-            <td nowrap>https://tvbox.catvod.com/FongMi.json</td>
+            <td nowrap><code>https://tvbox.catvod.com/FongMi.json</code></td>
           </tr>
           <tr>
             <td nowrap>🌸FongMi</td>
-            <td nowrap>https://tv.菜妮丝.top/</td>
+            <td nowrap><code>https://tv.菜妮丝.top/</code></td>
           </tr>
           <tr>
             <td nowrap>📦盒子迷</td>
-            <td nowrap>https://盒子迷.top/禁止贩卖</td>
+            <td nowrap><code>https://盒子迷.top/禁止贩卖</code></td>
           </tr>
           <tr>
             <td nowrap>🦅欧歌</td>
-            <td nowrap>https://tv.nxog.top/m/</td>
+            <td nowrap><code>https://tv.nxog.top/m/</code></td>
           </tr>
           <tr>
             <td nowrap>😎潇洒❌</td>
-            <td nowrap>https://9877.kstore.space/AnotherD/api.json</td>
+            <td nowrap><code>https://9877.kstore.space/AnotherD/api.json</code></td>
           </tr>
           <tr>
             <td nowrap>🐱肥猫❌</td>
-            <td nowrap>http://肥猫.com/</td>
+            <td nowrap><code>http://肥猫.com/</code></td>
           </tr>
   </tbody>
 </table>
