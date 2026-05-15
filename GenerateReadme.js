@@ -37,21 +37,19 @@ urlsList.forEach(item => {
   if (item.url && item.url.trim() !== '') {
     tableRows += `
           <tr>
-            <td style="white-space: nowrap;">${escapeHtml(item.name)}</td>
-            <td style="white-space: nowrap;">
-              <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.url)}</a>
-            </td>
+            <td nowrap>${escapeHtml(item.name)}</td>
+            <td nowrap>[${escapeHtml(item.url)}](${escapeHtml(item.url)})</td>
           </tr>`;
   }
 });
 
-// 完整的HTML表格，外层加[overflow-x]实现横向滚动
+// 完整的HTML表格，[nowrap]属性实现单元格中的内容不换行
 const htmlTable = `
-<table style="border-collapse: collapse; width: 100%;">
+<table>
   <thead>
     <tr>
-      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">线路名称</th>
-      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">接口地址</th>
+      <th nowrap>线路名称</th>
+      <th nowrap>接口地址</th>
     </tr>
   </thead>
   <tbody>${tableRows}
