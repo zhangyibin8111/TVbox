@@ -1,6 +1,6 @@
 # 📺 TVBox 多线路配置
 
-> 本文件由GitHub Actions自动维护，最后更新：**2026-05-15 14:40:52**
+> 本文件由GitHub Actions自动维护，最后更新：**2026-05-15 17:25:47**
 
 ## 🔗 订阅地址
 
@@ -36,7 +36,7 @@
           </tr>
           <tr>
             <td nowrap>🐮王小二</td>
-            <td nowrap><code>https://www.王二小放牛娃.top/</code></td>
+            <td nowrap><code>http://www.王二小放牛娃.top/</code></td>
           </tr>
           <tr>
             <td nowrap>🐮王小二🔄</td>
@@ -69,10 +69,6 @@
           <tr>
             <td nowrap>📦盒子迷</td>
             <td nowrap><code>https://盒子迷.top/禁止贩卖</code></td>
-          </tr>
-          <tr>
-            <td nowrap>🦅欧歌</td>
-            <td nowrap><code>https://tv.nxog.top/m/</code></td>
           </tr>
           <tr>
             <td nowrap>😎潇洒❌</td>
