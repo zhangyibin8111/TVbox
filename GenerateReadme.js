@@ -38,7 +38,7 @@ urlsList.forEach(item => {
     tableRows += `
           <tr>
             <td nowrap>${escapeHtml(item.name)}</td>
-            <td nowrap>${escapeHtml(item.url)}</td>
+            <td nowrap><code>${escapeHtml(item.url)}</code></td>
           </tr>`;
   }
 });
