@@ -17,9 +17,9 @@ const rawLink = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${br
 const subscriptionLinks = [
   { name: "🐙🚀GitHub直链", url: rawLink },
   { name: "🌏jsDelivrCDN", url: `https://cdn.jsdelivr.net/gh/${repoOwner}/${repoName}@${branch}/MultiLine.json` },
-  { name: "🌏🚀GH-Proxy", url: `https://gh-proxy.org/${rawLink}` },
+  { name: "🌏GH-Proxy", url: `https://gh-proxy.org/${rawLink}` },
   { name: "⚡🚀GH-Proxy 香港节点", url: `https://hk.gh-proxy.org/${rawLink}` },
-  { name: "🌏GH-Proxy Fastly节点", url: `https://cdn.gh-proxy.org/${rawLink}` },
+  { name: "🌏🚀GH-Proxy Fastly节点", url: `https://cdn.gh-proxy.org/${rawLink}` },
   { name: "🌏GH-Proxy EdgeOne节点", url: `https://edgeone.gh-proxy.org/${rawLink}` }
 ];
 
