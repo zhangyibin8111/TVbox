@@ -1,6 +1,6 @@
 # 📺 TVBox 多线路配置
 
-> 本文件由GitHub Actions自动维护，最后更新：**2026-05-14 15:23:35**
+> 本文件由GitHub Actions自动维护，最后更新：**2026-05-15 14:40:52**
 
 ## 🔗 订阅地址
 
@@ -9,26 +9,86 @@
 | RAW直链 | [https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json](https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json) |
 | CDN加速 | [https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json](https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json) |
 
+> 🚀 **CDN缓存刷新**：如果更新JSON后CDN链接未及时生效，请点击下方按钮手动清除缓存。
+>
+> <a href="https://purge.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json" target="_blank" style="display: inline-block; background-color: #f0ad4e; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-weight: bold;">🧹 刷新CDN加速链接缓存</a>
+
 ## 📋 可用线路列表
 
-| 线路名称 | 接口地址 |
-| :------ | :------ |
-| 🚀饭太硬 | [http://www.饭太硬.net/tv](http://www.饭太硬.net/tv) |
-| 🚀饭太硬备用 | [http://fty.xxooo.cf/tv](http://fty.xxooo.cf/tv) |
-| 🚀饭太硬备备用 | [https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp](https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp) |
-| 🚀王小二 | [https://www.王二小放牛娃.top/](https://www.王二小放牛娃.top/) |
-| 🚀王小二备用 | [https://9280.kstore.vip/newwex.json](https://9280.kstore.vip/newwex.json) |
-| 🚀王小二备备用 | [https://9280.kstore.space/wex.json](https://9280.kstore.space/wex.json) |
-| 🚀潇洒 | [https://9877.kstore.space/AnotherD/api.json](https://9877.kstore.space/AnotherD/api.json) |
-| 🚀肥猫 | [http://肥猫.com/](http://肥猫.com/) |
-| 🚀菜妮丝 | [https://tv.菜妮丝.top](https://tv.菜妮丝.top) |
-| 🚀不会唱歌的鱼妖 | [https://cyao2q.github.io/files/m.json](https://cyao2q.github.io/files/m.json) |
-| 🚀不会唱歌的鱼妖备用 | [https://cyao2q.github.io/files/n.json](https://cyao2q.github.io/files/n.json) |
-| 🚀Catvod-自用 | [https://tvbox.catvod.com/catvod.json](https://tvbox.catvod.com/catvod.json) |
-| 🚀Catvod-潇洒 | [https://tvbox.catvod.com/xs/api.json](https://tvbox.catvod.com/xs/api.json) |
-| 🚀Catvod-PG | [https://tvbox.catvod.com/jsm.json](https://tvbox.catvod.com/jsm.json) |
-| 🚀Catvod-FongMi | [https://tvbox.catvod.com/FongMi.json](https://tvbox.catvod.com/FongMi.json) |
 
+<div style="overflow-x: auto;">
+  <table style="border-collapse: collapse; width: 100%;">
+    <thead>
+      <tr>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">线路名称</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; white-space: nowrap;">接口地址</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+          <tr>
+            <td style="white-space: nowrap;">🚀🍚饭太硬</td>
+            <td style="white-space: nowrap;"><code>https://www.饭太硬.net/tv</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🚀🍚饭太硬🔄</td>
+            <td style="white-space: nowrap;"><code>https://fty.xxooo.cf/tv</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🚀🍚饭太硬🔄🔄</td>
+            <td style="white-space: nowrap;"><code>https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐮王小二</td>
+            <td style="white-space: nowrap;"><code>https://www.王二小放牛娃.top/</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐮王小二🔄</td>
+            <td style="white-space: nowrap;"><code>https://9280.kstore.vip/newwex.json</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐮王小二🔄🔄</td>
+            <td style="white-space: nowrap;"><code>https://9280.kstore.space/wex.json</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐱Catvod-🟦自用</td>
+            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/catvod.json</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐱Catvod-😎潇洒</td>
+            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/xs/api.json</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐱Catvod-🟦PG</td>
+            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/jsm.json</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐱Catvod-🌸FongMi</td>
+            <td style="white-space: nowrap;"><code>https://tvbox.catvod.com/FongMi.json</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🌸FongMi</td>
+            <td style="white-space: nowrap;"><code>https://tv.菜妮丝.top/</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">📦盒子迷</td>
+            <td style="white-space: nowrap;"><code>https://盒子迷.top/禁止贩卖</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🦅欧歌</td>
+            <td style="white-space: nowrap;"><code>https://tv.nxog.top/m/</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">😎潇洒❌</td>
+            <td style="white-space: nowrap;"><code>https://9877.kstore.space/AnotherD/api.json</code></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;">🐱肥猫❌</td>
+            <td style="white-space: nowrap;"><code>http://肥猫.com/</code></td>
+          </tr>
+    </tbody>
+  </table>
+</div>
 
 ## ⚠️ 免责声明
 
