@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <td nowrap>🐙GitHub直链</td>
+      <td nowrap>🐙🚀GitHub直链</td>
       <td nowrap><a href="https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
@@ -18,7 +18,11 @@
       <td nowrap><a href="https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json">https://cdn.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json</a></td>
     </tr>
     <tr>
-      <td nowrap>⚡GH-Proxy 香港节点</td>
+      <td nowrap>🌏🚀GH-Proxy</td>
+      <td nowrap><a href="https://gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
+    </tr>
+    <tr>
+      <td nowrap>⚡🚀GH-Proxy 香港节点</td>
       <td nowrap><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://hk.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
@@ -32,7 +36,7 @@
   </tbody>
 </table>
 
-## 📋 可用线路列表
+## 📋 可用线路
 
 <table>
   <thead>
