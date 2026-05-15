@@ -12,6 +12,7 @@
 > 🚀 **CDN缓存刷新**：如果更新JSON后CDN链接未及时生效，请点击下方按钮手动清除缓存。
 >
 > <a href="https://purge.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json" target="_blank" style="display: inline-block; background-color: #f0ad4e; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-weight: bold;">🧹 刷新CDN加速链接缓存</a>
+> [刷新CDN加速链接缓存](https://purge.jsdelivr.net/gh/zhangyibin8111/TVbox@main/MultiLine.json)
 
 ## 📋 可用线路列表
 
@@ -25,7 +26,6 @@
       </tr>
     </thead>
     <tbody>
-      
           <tr>
             <td style="white-space: nowrap;">🚀🍚饭太硬</td>
             <td style="white-space: nowrap;"><code>https://www.饭太硬.net/tv</code></td>
@@ -85,11 +85,10 @@
           <tr>
             <td style="white-space: nowrap;">🐱肥猫❌</td>
             <td style="white-space: nowrap;"><code>http://肥猫.com/</code></td>
-          </tr>
-    </tbody>
+          </tr></tbody>
   </table>
 </div>
 
 ## ⚠️ 免责声明
 
-本仓库仅用于技术学习与交流，所有接口均来自网络，如有侵权请联系删除。
+> 本仓库仅用于技术学习与交流，所有接口均来自网络，如有侵权请联系删除。
