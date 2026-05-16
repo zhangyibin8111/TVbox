@@ -1,6 +1,6 @@
 # 📺 TVBox 多线路配置
 
-> 本文件由GitHub Actions自动维护，最后更新：**2026-05-15 18:48:47**
+> 本文件由GitHub Actions自动维护，最后更新：**2026-05-16 14:22:56**
 
 ## 🔗 订阅地址
 
@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <td nowrap>🐙🚀GitHub直链</td>
+      <td nowrap>🐙GitHub直链</td>
       <td nowrap><a href="https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
@@ -22,11 +22,11 @@
       <td nowrap><a href="https://gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
-      <td nowrap>⚡🚀GH-Proxy 香港节点</td>
+      <td nowrap>🚀⚡GH-Proxy 香港节点</td>
       <td nowrap><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://hk.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
-      <td nowrap>🌏🚀GH-Proxy Fastly节点</td>
+      <td nowrap>🚀🌏GH-Proxy Fastly节点</td>
       <td nowrap><a href="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json">https://cdn.gh-proxy.org/https://raw.githubusercontent.com/zhangyibin8111/TVbox/main/MultiLine.json</a></td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
             <td nowrap><a href="https://9280.kstore.space/wex.json">https://9280.kstore.space/wex.json</a></td>
           </tr>
           <tr>
-            <td nowrap>🐱Catvod-🟦自用</td>
+            <td nowrap>🐱Catvod-💠自用</td>
             <td nowrap><a href="https://tvbox.catvod.com/catvod.json">https://tvbox.catvod.com/catvod.json</a></td>
           </tr>
           <tr>
@@ -78,7 +78,7 @@
             <td nowrap><a href="https://tvbox.catvod.com/xs/api.json">https://tvbox.catvod.com/xs/api.json</a></td>
           </tr>
           <tr>
-            <td nowrap>🐱Catvod-🟦PG</td>
+            <td nowrap>🐱Catvod-💠PG</td>
             <td nowrap><a href="https://tvbox.catvod.com/jsm.json">https://tvbox.catvod.com/jsm.json</a></td>
           </tr>
           <tr>
@@ -92,6 +92,22 @@
           <tr>
             <td nowrap>📦盒子迷</td>
             <td nowrap><a href="https://盒子迷.top/禁止贩卖">https://盒子迷.top/禁止贩卖</a></td>
+          </tr>
+          <tr>
+            <td nowrap>🌺香雅情</td>
+            <td nowrap><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json">https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json</a></td>
+          </tr>
+          <tr>
+            <td nowrap>🌺香雅情🔄</td>
+            <td nowrap><a href="https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json">https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json</a></td>
+          </tr>
+          <tr>
+            <td nowrap>🌬️南风</td>
+            <td nowrap><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json">https://hk.gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json</a></td>
+          </tr>
+          <tr>
+            <td nowrap>🌬️南风🔄</td>
+            <td nowrap><a href="https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json">https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json</a></td>
           </tr>
           <tr>
             <td nowrap>😎潇洒❌</td>
