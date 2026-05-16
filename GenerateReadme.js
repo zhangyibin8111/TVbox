@@ -15,11 +15,11 @@ if (process.env.GITHUB_REPOSITORY) {
 // 构造订阅地址
 const rawLink = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/MultiLine.json`;
 const subscriptionLinks = [
-  { name: "🐙🚀GitHub直链", url: rawLink },
+  { name: "🐙GitHub直链", url: rawLink },
   { name: "🌏jsDelivrCDN", url: `https://cdn.jsdelivr.net/gh/${repoOwner}/${repoName}@${branch}/MultiLine.json` },
   { name: "🌏GH-Proxy", url: `https://gh-proxy.org/${rawLink}` },
-  { name: "⚡🚀GH-Proxy 香港节点", url: `https://hk.gh-proxy.org/${rawLink}` },
-  { name: "🌏🚀GH-Proxy Fastly节点", url: `https://cdn.gh-proxy.org/${rawLink}` },
+  { name: "🚀⚡GH-Proxy 香港节点", url: `https://hk.gh-proxy.org/${rawLink}` },
+  { name: "🚀🌏GH-Proxy Fastly节点", url: `https://cdn.gh-proxy.org/${rawLink}` },
   { name: "🌏GH-Proxy EdgeOne节点", url: `https://edgeone.gh-proxy.org/${rawLink}` }
 ];
 
@@ -33,7 +33,7 @@ const config = JSON.parse(rawData);
 let updateTime = '未知';
 let urlsList = config.urls || [];
 if (urlsList.length > 0 && urlsList[0].url === '') {
-  updateTime = urlsList[0].name.replace('更新时间 ', '');
+  updateTime = urlsList[0].name.replace('📅 ', '');
   urlsList = urlsList.slice(1); // 移除第一条元数据条目
 }
 

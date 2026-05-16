@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "",
-            "name": "更新时间 2026-05-15 18:48:47"
+            "name": "📅 2026-05-16 14:22:56"
         },
         {
             "url": "https://www.饭太硬.net/tv",
@@ -30,7 +30,7 @@
         },
         {
             "url": "https://tvbox.catvod.com/catvod.json",
-            "name": "🐱Catvod-🟦自用"
+            "name": "🐱Catvod-💠自用"
         },
         {
             "url": "https://tvbox.catvod.com/xs/api.json",
@@ -38,7 +38,7 @@
         },
         {
             "url": "https://tvbox.catvod.com/jsm.json",
-            "name": "🐱Catvod-🟦PG"
+            "name": "🐱Catvod-💠PG"
         },
         {
             "url": "https://tvbox.catvod.com/FongMi.json",
@@ -51,6 +51,22 @@
         {
             "url": "https://盒子迷.top/禁止贩卖",
             "name": "📦盒子迷"
+        },
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🌺香雅情"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
+            "name": "🌺香雅情🔄"
+        },
+        {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🌬️南风"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
+            "name": "🌬️南风🔄"
         },
         {
             "url": "https://9877.kstore.space/AnotherD/api.json",
