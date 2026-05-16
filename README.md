@@ -1,6 +1,6 @@
 # 📺 TVBox 多线路配置
 
-> 本文件由GitHub Actions自动维护，最后更新：**2026-05-16 14:22:56**
+> 本文件由GitHub Actions自动维护，最后更新：**2026-05-16 14:43:12**
 
 ## 🔗 订阅地址
 
@@ -98,16 +98,8 @@
             <td nowrap><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json">https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json</a></td>
           </tr>
           <tr>
-            <td nowrap>🌺香雅情🔄</td>
-            <td nowrap><a href="https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json">https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json</a></td>
-          </tr>
-          <tr>
             <td nowrap>🌬️南风</td>
             <td nowrap><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json">https://hk.gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json</a></td>
-          </tr>
-          <tr>
-            <td nowrap>🌬️南风🔄</td>
-            <td nowrap><a href="https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json">https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json</a></td>
           </tr>
           <tr>
             <td nowrap>😎潇洒❌</td>
